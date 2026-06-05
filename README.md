@@ -15,7 +15,7 @@
 | **Written On** | June 02, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/wrapped-in-your-touch/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Wrapped In Your Touch](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/wrapped-in-your-touch/) |
+| **Get License** | [License this song: Wrapped In Your Touch](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/wrapped-in-your-touch/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I feel the midnight burning when you look my way
+> A quiet kind of fire in the words we say
+> Your shadow dancing softly on the hardwood floor
+> I know I shouldn't linger but I’m wanting more
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
